@@ -16,7 +16,8 @@ This project analyzes e-commerce sales data to track business performance, profi
 - Interactive filters and slicers
 
 ## 📁 Dataset
-- sales_data.csv
+Data embedded in PBIX
+
 
 ## 📈 Business Insights
 - Identified high-performing regions and categories
